@@ -1,0 +1,5 @@
+This directory contains the java classes for jade agents. Included are the JAXB classes of Microsoft HealthVault CCR Schema. Please download a copy of your CCR record from MSHV to work with these agent classes.
+
+To run the jade agents. The following need to be installed.
+1. JADE framework v3.7 or above.
+2. JAXB v2.2.1.
